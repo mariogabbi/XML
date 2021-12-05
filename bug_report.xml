@@ -1,0 +1,6 @@
+<summary>The add to cart button does not work.</summary>
+<project>online_shop</project>
+<component>the button</component>
+<version>android</version>
+<severity>S2</severity>
+<priority>P1</priority>
